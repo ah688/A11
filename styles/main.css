@@ -225,6 +225,6 @@ footer p {
 }
 
 /* mobile portrait to mobile landscape */
-@media only screen and (max-width: 479px) {
+@media only screen and (max-width: 600px) {
 	body { font-size: 90%; }
 }
