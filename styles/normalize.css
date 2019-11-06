@@ -142,7 +142,7 @@ h1 {
  */
 
 mark {
-  background: #fffded;
+  background: #ff0;
   color: #000;
 }
 
@@ -424,4 +424,3 @@ table {
 td,
 th {
   padding: 0;
-}
